@@ -1,4 +1,4 @@
-package com.example.khabo;
+package com.example.myapplication;
 
 import org.junit.Test;
 
